@@ -190,7 +190,7 @@ a.more:hover {
 }
 
 #tooplate_menu ul li a:hover, #tooplate_menu ul li .current { 
-	color: #000; /* text-shadow: 1px 1px 1px #877f27 */; 
+	color: #fff; /* text-shadow: 1px 1px 1px #877f27 */; 
 }
 
 #tooplate_menu ul .last { 
